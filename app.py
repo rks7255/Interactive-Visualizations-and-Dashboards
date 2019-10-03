@@ -12,9 +12,6 @@ from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 
-# ignored-classes=SQLObject,Registrant,scoped_session
-
-
 
 #################################################
 # Database Setup
